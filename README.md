@@ -6,14 +6,6 @@ Fork using .Net 4.6 not sure if everything is working, original version with .Ne
 
 **Usage**
 
-```PM> Install-Package LottieSharp -Version 1.0.0```
-
-- Install from nuget: [LottieSharp](https://www.nuget.org/packages/LottieSharp/);
-- Import into your xaml the library
-
-    xmlns:lottieSharp="clr-namespace:LottieSharp;assembly=LottieSharp"
-
-- Now you can include the control in your layout
 ```xml
 <lottieSharp:LottieAnimationView 
     x:Name="LottieAnimationView" 
