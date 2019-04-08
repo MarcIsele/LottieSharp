@@ -1,7 +1,7 @@
 # LottieSharp
+Fork using .Net 4.6 not sure if everything is working, original version with .Net 4.6: https://github.com/ascora/LottieSharp
 
-
-| ![Logo](https://raw.githubusercontent.com/ascora/LottieSharp/master/Images/lottie_sharp-128.png) |C# (WPF) port of Lottie (https://github.com/airbnb/lottie-android) based on .NET Framework 4.6.1 using sharpdx (http://sharpdx.org/)  |
+| ![Logo](https://raw.githubusercontent.com/ascora/LottieSharp/master/Images/lottie_sharp-128.png) |C# (WPF) port of Lottie (https://github.com/airbnb/lottie-android) based on .NET Framework 4.6 using sharpdx (http://sharpdx.org/)  |
 |--|--|
 
 **Usage**
